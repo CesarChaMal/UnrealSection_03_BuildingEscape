@@ -193,11 +193,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine
-/Yc"C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I C:\IdeaProjects\UnrealSection_03_BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine
+/Yc"C:\IdeaProjects\UnrealSection_03_BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\IdeaProjects\UnrealSection_03_BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\IdeaProjects\UnrealSection_03_BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\IdeaProjects\UnrealSection_03_BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4

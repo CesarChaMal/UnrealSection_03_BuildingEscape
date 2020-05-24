@@ -1,4 +1,0 @@
-C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
-C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Source\BuildingEscape\BuildingEscape.h
-C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Source\BuildingEscape\PositionReport.h
-C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape\PositionReport.generated.h

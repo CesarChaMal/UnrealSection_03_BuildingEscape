@@ -1,3 +1,3 @@
-C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
-C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Source\BuildingEscape.Target.cs
-C:\IdeaProjects\UnrealSection_03_BuildingEscape\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
+C:\IdeaProjects\UnrealSection_03_BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
+C:\IdeaProjects\UnrealSection_03_BuildingEscape\Source\BuildingEscape.Target.cs
+C:\IdeaProjects\UnrealSection_03_BuildingEscape\Source\BuildingEscapeEditor.Target.cs
